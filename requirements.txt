@@ -9,3 +9,6 @@ sentence-transformers
 transformers
 huggingface-hub
 langchain-qdrant
+fastapi
+pydantic
+uvicorn
