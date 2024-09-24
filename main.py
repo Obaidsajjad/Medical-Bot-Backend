@@ -115,6 +115,3 @@ async def getResponse(request:Item):
     # ans = result.similarity_search(question)
     # print(ans[0].page_content, "  ", ans[0].metadata)
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="192.168.18.67", port=8000)
