@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+pypdf
+PyPDF2
+langchain-huggingface
+langchain-groq
+sentence-transformers
+transformers
+huggingface-hub
+langchain-qdrant
